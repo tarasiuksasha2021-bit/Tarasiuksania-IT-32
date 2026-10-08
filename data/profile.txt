@@ -1,0 +1,5 @@
+name: Oleksandr
+surname: Tarasiuk
+group: IT-32
+year: 2009
+language: Python

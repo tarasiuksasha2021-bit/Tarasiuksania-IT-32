@@ -1,0 +1,17 @@
+Expenses report for Oleksandr Tarasiuk (IT-32)
+Period: 2026-10-02 .. 2026-10-08
+Records: 12
+
+category     count      total    share  chart
+----------------------------------------------------
+food             5     507.00    42.1%  ########
+internet         1     250.00    20.8%  ####
+books            1     220.00    18.3%  ###
+coffee           2     130.00    10.8%  ##
+transport        3      96.00     8.0%  #
+----------------------------------------------------
+total           12    1203.00   100.0%
+
+Top day: 2026-10-05 (315.00)
+Most expensive: internet 250.00 (internet)
+Average per day: 171.86
