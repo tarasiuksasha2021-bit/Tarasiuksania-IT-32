@@ -1,0 +1,80 @@
+[
+  {
+    "date": "2026-10-02",
+    "category": "food",
+    "amount": 85.5,
+    "comment": "lunch"
+  },
+  {
+    "date": "2026-10-02",
+    "category": "transport",
+    "amount": 32.0,
+    "comment": "bus"
+  },
+  {
+    "date": "2026-10-03",
+    "category": "food",
+    "amount": 120.0,
+    "comment": "groceries"
+  },
+  {
+    "date": "2026-10-03",
+    "category": "coffee",
+    "amount": 65.0,
+    "comment": "coffee"
+  },
+  {
+    "date": "2026-10-04",
+    "category": "transport",
+    "amount": 32.0,
+    "comment": "bus"
+  },
+  {
+    "date": "2026-10-04",
+    "category": "food",
+    "amount": 96.5,
+    "comment": "dinner"
+  },
+  {
+    "date": "2026-10-05",
+    "category": "coffee",
+    "amount": 65.0,
+    "comment": "coffee"
+  },
+  {
+    "date": "2026-10-05",
+    "category": "internet",
+    "amount": 250.0,
+    "comment": "internet"
+  },
+  {
+    "date": "2026-10-06",
+    "category": "transport",
+    "amount": 32.0,
+    "comment": "bus"
+  },
+  {
+    "date": "2026-10-06",
+    "category": "food",
+    "amount": 65.0,
+    "comment": "pizza"
+  },
+  {
+    "date": "2026-10-07",
+    "category": "food",
+    "amount": 140.0,
+    "comment": "groceries"
+  },
+  {
+    "date": "2026-10-08",
+    "category": "books",
+    "amount": 220.0,
+    "comment": "handbook"
+  },
+  {
+    "date": "2026-11-12",
+    "category": "food",
+    "amount": 50.0,
+    "comment": "new expense"
+  }
+]
